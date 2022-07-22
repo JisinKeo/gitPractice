@@ -10,7 +10,7 @@
 8. 통과가 된다면(충돌이 발생하지 않는다면) merge 진행-> main 에 자동으로 반영
 
 < 수정 작업>
-8. 로컬 컴퓨터에서 git pull origin main
-9. 5~7번 과정 반복
+9. 로컬 컴퓨터에서 git pull origin main
+10. 5~8번 과정 반복
 
 + 내 깃 레포에도 반영하기 : fetch upstream -> fetch and merge
