@@ -1,0 +1,15 @@
+< 첫 작업 > 
+
+1. 구성원들 초대
+2. 해당 레포를 로컬 컴퓨터에 git clone
+3. 개인 브랜치 생성 -> git branch J034
+4. 브랜치 변경 -> git checkout J034
+5. 작업 후, git add git commit
+6. git push origin J034 -> 내 브랜치에 해당하는 레포 변경
+7. pull request 진행하고 통과가 된다면(충돌이 발생하지 않는다면) merge 진행-> main 에 자동으로 반영
+
+< 수정 작업>
+8. 로컬 컴퓨터에서 git pull origin main
+9. 2~7번 과정 반복
+
++ 내 깃 레포에도 반영하기 : fetch upstream -> fetch and merge
